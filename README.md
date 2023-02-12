@@ -9,3 +9,6 @@ In developing the algorithm, we solve a vehicle routing with battery constraint 
 
 # final_solver.ipynb
 Used to call the libraries.
+
+# experiment.ipynb
+Setting up the overall model with testings, experimentations and case set ups.
